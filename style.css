@@ -1,5 +1,28 @@
-html body {
+.box {
   background-color: aqua;
-  width: 100%;
-  length: 100px;
+  position: absolute;
+  border: solid;
+  border-radius: 1px;
+  width: 1510px;
+}
+
+.div1 {
+  position: absolute;
+  padding-left: 700px;
+  margin-top: -70px;
+}
+.div2 {
+  position: absolute;
+  padding-left: 880px;
+  margin-top: -70px;
+}
+.div3 {
+  position: absolute;
+  padding-left: 1060px;
+  margin-top: -70px;
+}
+.div4 {
+  position: absolute;
+  padding-left: 1250px;
+  margin-top: -70px;
 }
